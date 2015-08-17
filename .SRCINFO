@@ -1,0 +1,14 @@
+pkgbase = paper-gtk-theme
+	pkgdesc = Paper GTK theme.
+	pkgver = 1.0
+	pkgrel = 1
+	url = http://snwh.org/paper/
+	arch = any
+	groups = gnome
+	license = GPL
+	depends = gtk-engine-murrine
+	source = paper-gtk-theme.tar.gz::https://github.com/snwh/paper-gtk-theme/raw/master/paper-gtk-theme.tar.gz
+	sha256sums = SKIP
+
+pkgname = paper-gtk-theme
+
